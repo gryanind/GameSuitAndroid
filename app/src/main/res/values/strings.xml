@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameSuit</string>
+    <string name="txt_desc_scissor">Scissor</string>
+    <string name="txt_desc">Desc</string>
+    <string name="txt_desc_paper">Paper</string>
+    <string name="txt_desc_rock">Rock</string>
+    <string name="txt_gamesuit">GAME SUIT</string>
+    <string name="txt_desc_home">Home</string>
+    <string name="txt_start">START</string>
+    <string name="txt_exit">EXIT</string>
+    <string name="txt_home_gamesuit">GAME SUIT</string>
+    <string name="txt_you_win">YOU WIN!</string>
+</resources>
